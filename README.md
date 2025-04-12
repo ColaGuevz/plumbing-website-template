@@ -28,28 +28,6 @@ A modern, responsive, and animated website template designed specifically for pl
 
 ---
 
-## 📁 Folder Structure
-plumbing-website/
-├── index.html # Main HTML file
-├── css/
-│ └── style.css # All CSS styles
-├── js/
-│ └── script.js # All JavaScript code
-├── images/ # Placeholder for all website images
-│ ├── logo.png
-│ ├── hero-bg.jpg
-│ ├── about-us-image.jpg
-│ ├── service-icon-1.svg
-│ ├── service-icon-2.svg
-│ ├── service-icon-3.svg
-│ ├── service-icon-4.svg
-│ ├── testimonial-avatar-1.jpg
-│ ├── testimonial-avatar-2.jpg
-│ └── plumber-working.jpg
-└── README.md # This file
-
----
-
 ## ⚙️ Getting Started
 
 1.  **Clone the repository:**
