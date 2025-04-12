@@ -2,9 +2,6 @@
 
 A modern, responsive, and animated website template designed specifically for plumbing businesses. Built with clean HTML, CSS (including CSS Variables for easy theming), and vanilla JavaScript for animations and interactivity.
 
-![Screenshot Placeholder](<# Replace with a link to a screenshot of the template #>)
-<!-- Consider adding a GIF showcasing the animations! -->
-
 ---
 
 ## ✨ Features
@@ -19,13 +16,7 @@ A modern, responsive, and animated website template designed specifically for pl
 *   **Contact Form Structure:** Basic HTML structure for a contact form (requires backend/service for actual submission).
 *   **Mobile Navigation:** Includes a functional toggle menu for smaller screens.
 *   **SEO Friendly:** Basic meta description included.
-
----
-
-## 🚀 Live Demo (Optional)
-
-[Link to Live Demo](<# Replace with the URL of your live demo if you host it #>)
-
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -56,7 +47,6 @@ plumbing-website/
 │ ├── testimonial-avatar-2.jpg
 │ └── plumber-working.jpg
 └── README.md # This file
-
 
 ---
 
@@ -110,21 +100,13 @@ plumbing-website/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](<# Replace with link to your repo's issues page #>).
+Contributions, issues, and feature requests are welcome! Feel free to check the issues of the page.
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-*(You should add a file named `LICENSE` containing the MIT License text to your repository)*
 
 ---
 
